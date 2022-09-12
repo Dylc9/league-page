@@ -1,14 +1,14 @@
 /*   STEP 1   */
 export const leagueID = "865032736019173376"; // your league ID
-export const leagueName = "Sleeper League"; // your league name
+export const leagueName = "Funner League"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Welcome to the Funner League Team Page</p>
-  <p></p>
+  <p>Welcome to the Funner League Team Page!</p>
+  <p>Best of luck!</p>
   <p></p>
   <p></p>
   <p></p>
