@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Welcome to the Funner League Team Page!</p>
+  <p>Welcome to Funner League Team Page!</p>
   <p>Best of luck!</p>
   <p></p>
   <p></p>
